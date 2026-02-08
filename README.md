@@ -88,8 +88,7 @@ I design systems for:
 ## 📊 Impact at Scale
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharani456&amp;show_icons=true&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharani456&amp;theme=dark&amp;background=0a0a0a&amp;ring=d4a843&amp;fire=d4a843&amp;currStreakLabel=d4a843&amp;sideLabels=d4a843&amp;border=333333&amp;stroke=333333&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharani456&amp;theme=dark&amp;background=0a0a0a&amp;ring=d4a843&amp;fire=d4a843&amp;currStreakLabel=d4a843&amp;sideLabels=d4a843&amp;border=333333&amp;stroke=333333&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888" height="200"/>
 </p>
 
 | 🎯 Metric | 📈 Scale |
