@@ -229,8 +229,6 @@ achievements = {
 ### 🚆 National Railway QR Asset Management System
 **National-scale system managing 23+ crore railway components**
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=bharani456&amp;repo=railway-asset-management&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333"/>
-
 **🎯 Challenge:** Track and manage 230 million+ railway assets across India
 
 **💡 Solution:**
@@ -243,8 +241,6 @@ achievements = {
 **🛠️ Tech:** Python • OpenCV • TensorFlow • Apache Kafka • MongoDB • FastAPI
 
 **🏆 Recognition:** SIH 2025 Pre-Finalist (Rank 6) — Ministry of Railways
-
-<br clear="right"/>
 
 ---
 
