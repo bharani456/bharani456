@@ -305,6 +305,24 @@ achievements = {
 
 ---
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani456&amp;layout=compact&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;langs_count=8" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharani456&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;column=7&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bharani456/bharani456/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
 ---
 
 ## 📬 Let's Connect
