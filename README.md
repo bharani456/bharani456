@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=D4A843&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Backend+Systems+Architect;Intelligent+Infrastructure+Builder;Production-Grade+Solutions" alt="Typing SVG" />
+  <span style="color: #D4A843; font-weight: 600;">AI & Automation Engineer • Backend Systems • Intelligent Infrastructure</span>
 </h3>
 
 <p align="center">
