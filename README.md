@@ -308,17 +308,17 @@ achievements = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharani456&amp;theme=monokai" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharani456&amp;theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharani456&amp;theme=monokai" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharani456&amp;theme=monokai&amp;utcOffset=5.5" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharani456&amp;theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharani456&amp;theme=github_dark&amp;utcOffset=5.5" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharani456&amp;theme=monokai" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharani456&amp;theme=monokai" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharani456&amp;theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharani456&amp;theme=github_dark" height="180"/>
 </p>
 
 <p align="center">
