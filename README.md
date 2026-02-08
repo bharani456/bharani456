@@ -12,18 +12,18 @@
 
 <p align="center">
   <a href="mailto:bharanidharan168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://bharani.crivo.in/">
-    <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bharanidharan-r-n-648a0228b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharanidharan168&label=Profile%20Views&color=d4a843&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=bharanidharan168&amp;label=Profile%20Views&amp;color=d4a843&amp;style=for-the-badge"/>
 </p>
 
 ---
@@ -88,8 +88,8 @@ I design systems for:
 ## 📊 Impact at Scale
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharanidharan168&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=d4a843&icon_color=d4a843&text_color=ffffff&border_color=333333&hide_border=false&border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharanidharan168&theme=dark&background=0a0a0a&ring=d4a843&fire=d4a843&currStreakLabel=d4a843&sideLabels=d4a843&border=333333&stroke=333333&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharanidharan168&amp;show_icons=true&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharanidharan168&amp;theme=dark&amp;background=0a0a0a&amp;ring=d4a843&amp;fire=d4a843&amp;currStreakLabel=d4a843&amp;sideLabels=d4a843&amp;border=333333&amp;stroke=333333&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888" height="180"/>
 </p>
 
 | 🎯 Metric | 📈 Scale |
@@ -108,11 +108,11 @@ I design systems for:
 <summary><b>💻 Languages &amp; Core Technologies</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
 
 </details>
 
@@ -120,10 +120,10 @@ I design systems for:
 <summary><b>🤖 AI &amp; Machine Learning</b></summary>
 <br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white)
 
 **Specializations:** Deep Learning • Computer Vision • LLM Workflows • Fault Detection
 
@@ -133,13 +133,13 @@ I design systems for:
 <summary><b>⚙️ Backend &amp; Data Engineering</b></summary>
 <br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&amp;logo=apache-kafka&amp;logoColor=white)
 
 </details>
 
@@ -147,11 +147,11 @@ I design systems for:
 <summary><b>🎨 Frontend Development</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 
 </details>
 
@@ -159,11 +159,11 @@ I design systems for:
 <summary><b>☁️ Cloud &amp; DevOps</b></summary>
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white)
 
 </details>
 
@@ -171,9 +171,9 @@ I design systems for:
 <summary><b>🔌 IoT &amp; Embedded Systems</b></summary>
 <br/>
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=raspberry-pi&amp;logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white)
 
 **Hardware:** Raspberry Pi 5 • ESP32 • DHT22 • PIR Sensors • LDR • Actuators
 
@@ -230,7 +230,7 @@ achievements = {
 ### 🚆 National Railway QR Asset Management System
 **National-scale system managing 23+ crore railway components**
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=bharanidharan168&repo=railway-asset-management&theme=dark&bg_color=0a0a0a&title_color=d4a843&icon_color=d4a843&text_color=ffffff&border_color=333333"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=bharanidharan168&amp;repo=railway-asset-management&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333"/>
 
 **🎯 Challenge:** Track and manage 230 million+ railway assets across India
 
@@ -313,11 +313,11 @@ achievements = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharan168&layout=compact&theme=dark&bg_color=0a0a0a&title_color=d4a843&text_color=ffffff&border_color=333333&hide_border=false&border_radius=12&langs_count=8" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharan168&amp;layout=compact&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;langs_count=8" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharanidharan168&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharanidharan168&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;column=7&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
 </p>
 
 ---
@@ -334,25 +334,25 @@ achievements = {
 
 <p align="center">
   <a href="mailto:bharanidharan168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1a1a1a"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bharani456">
-    <img src="https://img.shields.io/badge/GitHub-bharani456-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/GitHub-bharani456-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1a1a1a"/>
   </a>
   <a href="https://www.linkedin.com/in/bharanidharan-r-n-648a0228b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharanidharan%20R%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Bharanidharan%20R%20N-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=1a1a1a"/>
   </a>
   <a href="https://bharani.crivo.in/">
-    <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white&amp;labelColor=1a1a1a"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Tamil%20Nadu%2C%20India-D4A843?style=for-the-badge&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/📞_Phone-%2B91%2093842%2090323-D4A843?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/📍_Location-Tamil%20Nadu%2C%20India-D4A843?style=for-the-badge&amp;labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/📞_Phone-%2B91%2093842%2090323-D4A843?style=for-the-badge&amp;labelColor=1a1a1a"/>
 </p>
 
 ---
