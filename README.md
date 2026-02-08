@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bharanidharan168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <a href="mailto:bharani456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bharani456%40gmail.com-D4A843?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://bharani.crivo.in/">
     <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharanidharan168&amp;label=Profile%20Views&amp;color=d4a843&amp;style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=bharani456&amp;label=Profile%20Views&amp;color=d4a843&amp;style=for-the-badge"/>
 </p>
 
 ---
@@ -88,8 +88,8 @@ I design systems for:
 ## 📊 Impact at Scale
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharanidharan168&amp;show_icons=true&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharanidharan168&amp;theme=dark&amp;background=0a0a0a&amp;ring=d4a843&amp;fire=d4a843&amp;currStreakLabel=d4a843&amp;sideLabels=d4a843&amp;border=333333&amp;stroke=333333&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharani456&amp;show_icons=true&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharani456&amp;theme=dark&amp;background=0a0a0a&amp;ring=d4a843&amp;fire=d4a843&amp;currStreakLabel=d4a843&amp;sideLabels=d4a843&amp;border=333333&amp;stroke=333333&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888" height="180"/>
 </p>
 
 | 🎯 Metric | 📈 Scale |
@@ -230,7 +230,7 @@ achievements = {
 ### 🚆 National Railway QR Asset Management System
 **National-scale system managing 23+ crore railway components**
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=bharanidharan168&amp;repo=railway-asset-management&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=bharani456&amp;repo=railway-asset-management&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333"/>
 
 **🎯 Challenge:** Track and manage 230 million+ railway assets across India
 
@@ -313,11 +313,11 @@ achievements = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharan168&amp;layout=compact&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;langs_count=8" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani456&amp;layout=compact&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;langs_count=8" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharanidharan168&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;column=7&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharani456&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;column=7&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
 </p>
 
 ---
@@ -325,7 +325,7 @@ achievements = {
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bharanidharan168/bharanidharan168/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/bharani456/bharani456/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -333,8 +333,8 @@ achievements = {
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:bharanidharan168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1a1a1a"/>
+  <a href="mailto:bharani456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bharani456%40gmail.com-D4A843?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1a1a1a"/>
   </a>
 </p>
 
