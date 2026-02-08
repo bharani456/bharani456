@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <span style="color: #D4A843; font-weight: 600;">AI &amp; Automation Engineer • Backend Systems • Intelligent Infrastructure</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=D4A843&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Backend+Systems+Architect;Intelligent+Infrastructure+Builder;Production-Grade+Solutions" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -26,7 +26,9 @@
   <img src="https://komarev.com/ghpvc/?username=bharani456&amp;label=Profile%20Views&amp;color=d4a843&amp;style=for-the-badge"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 👨‍💻 About Me
 
@@ -55,7 +57,9 @@ const bharanidharan = {
 };
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 🎯 Engineering Philosophy
 
@@ -83,7 +87,9 @@ I design systems for:
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 📊 Impact at Scale
 
@@ -99,7 +105,9 @@ I design systems for:
 | **Real Users Served** | 10,000+ production users |
 | **System Uptime** | 99.9% availability |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 🛠️ Technical Arsenal
 
@@ -178,7 +186,9 @@ I design systems for:
 
 </details>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 💼 Professional Experience
 
@@ -197,7 +207,9 @@ achievements = {
 
 **Tech Stack:** Python • FastAPI • LLM Workflows • OCPP 1.6 • PostgreSQL • Docker
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ### 🏭 Team Lead — **Industrial Automation**
 **V. Thangavel & Sons Pvt Ltd** | *Jul 2025 – Nov 2025*
@@ -210,7 +222,9 @@ achievements = {
 
 **Tech Stack:** Python • Node.js • MQTT • InfluxDB • Grafana • Kubernetes
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ### 🖥️ Backend Developer & DevOps — **Young Indians**
 **Nov 2024 – Jun 2025** | *Scalable Platform Development*
@@ -222,7 +236,9 @@ achievements = {
 
 **Tech Stack:** Node.js • Express • AWS • GCP • MongoDB • Redis • CI/CD
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -242,7 +258,9 @@ achievements = {
 
 **🏆 Recognition:** SIH 2025 Pre-Finalist (Rank 6) — Ministry of Railways
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ### 🚦 AI Traffic Congestion Detection
 **Real-time vehicle density detection using computer vision**
@@ -256,7 +274,9 @@ achievements = {
 
 **🏆 Recognition:** Special Mention — BYTS India Hackathon
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ### 🏠 IoT Smart Home Automation
 **Intelligent home system controlling 15+ appliances**
@@ -271,7 +291,9 @@ achievements = {
 
 **🛠️ Software:** Python • MQTT • Node-RED • React Native
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 🏆 Achievements & Recognition
 
@@ -303,7 +325,9 @@ achievements = {
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 📈 GitHub Analytics
 
@@ -325,7 +349,9 @@ achievements = {
   <sub>💡 Analytics update automatically as you contribute to repositories</sub>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 🐍 Contribution Activity
 
@@ -333,7 +359,9 @@ achievements = {
   <img src="https://raw.githubusercontent.com/bharani456/bharani456/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 📬 Let's Connect
 
@@ -360,7 +388,9 @@ achievements = {
   <img src="https://img.shields.io/badge/📞_Phone-%2B91%2093842%2090323-D4A843?style=for-the-badge&amp;labelColor=1a1a1a"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a843,50:1a1a1a,100:0a0a0a&height=120&section=footer"/>
