@@ -1,0 +1,370 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:d4a843&height=200&section=header&text=Bharanidharan%20R%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Automation%20Engineer&descSize=18&descAlignY=55"/>
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=D4A843&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Engineer;Backend+Systems+Architect;Intelligent+Infrastructure+Builder;Production-Grade+Solutions" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  Building scalable AI systems, automation platforms, and IoT-driven infrastructure solutions for real-world operations.
+</p>
+
+<p align="center">
+  <a href="mailto:bharanidharan168@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://bharani.crivo.in/">
+    <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bharanidharan-r-n-648a0228b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharanidharan168&label=Profile%20Views&color=d4a843&style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const bharanidharan = {
+  role: "AI & Automation Engineer",
+  focus: ["Backend Systems", "LLM Analytics", "IoT Automation", "Production Infrastructure"],
+  currentWork: "AI & Automation Engineering Intern @ Zeon Charging",
+  philosophy: "Build real systems — not prototypes",
+  location: "Tamil Nadu, India",
+  
+  expertise: {
+    ai: ["LLM Workflows", "Computer Vision", "Deep Learning", "Fault Detection"],
+    backend: ["FastAPI", "Node.js", "PostgreSQL", "MongoDB", "Redis", "Kafka"],
+    cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes", "CI/CD"],
+    iot: ["Raspberry Pi", "ESP32", "MQTT", "Sensor Integration"]
+  },
+  
+  buildingSystems: [
+    "OCPP 1.6 charger log intelligence",
+    "Fault detection automation",
+    "Operational analytics pipelines",
+    "Scalable backend architecture",
+    "Cloud deployment & monitoring"
+  ]
+};
+```
+
+---
+
+## 🎯 Engineering Philosophy
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔄 Systems Thinking
+```
+Sensor Data → Edge Processing → Backend → Analytics → Dashboards
+```
+Every component must work together reliably.
+
+</td>
+<td width="50%">
+
+### 🚀 Production Focus
+I design systems for:
+- ✅ Real users
+- ✅ Real traffic
+- ✅ Real failures
+- ❌ Not just demos
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Impact at Scale
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharanidharan168&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=d4a843&icon_color=d4a843&text_color=ffffff&border_color=333333&hide_border=false&border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharanidharan168&theme=dark&background=0a0a0a&ring=d4a843&fire=d4a843&currStreakLabel=d4a843&sideLabels=d4a843&border=333333&stroke=333333&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="180"/>
+</p>
+
+| 🎯 Metric | 📈 Scale |
+|-----------|----------|
+| **Assets Managed** | 23+ Crore railway components |
+| **Concurrent Users** | 10,000+ users supported |
+| **Hackathon Achievement** | SIH 2025 Rank 6 (National) |
+| **Real Users Served** | 10,000+ production users |
+| **System Uptime** | 99.9% availability |
+
+---
+
+## 🛠️ Technical Arsenal
+
+<details open>
+<summary><b>💻 Languages & Core Technologies</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Specializations:** Deep Learning • Computer Vision • LLM Workflows • Fault Detection
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Data Engineering</b></summary>
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔌 IoT & Embedded Systems</b></summary>
+<br/>
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Hardware:** Raspberry Pi 5 • ESP32 • DHT22 • PIR Sensors • LDR • Actuators
+
+</details>
+
+---
+
+## 💼 Professional Experience
+
+### 🔋 AI & Automation Engineering Intern — **Zeon Charging**
+**Dec 2025 – Present** | *EV Charging Infrastructure Intelligence*
+
+```python
+achievements = {
+    "llm_analytics": "Built LLM-powered analytics for EV charging stations",
+    "ocpp_intelligence": "Developed OCPP 1.6 charger log intelligence pipelines",
+    "fault_detection": "Automated fault detection & reporting systems",
+    "backend_systems": "Designed scalable backend and monitoring infrastructure",
+    "impact": "Reduced manual analysis time by 80%"
+}
+```
+
+**Tech Stack:** Python • FastAPI • LLM Workflows • OCPP 1.6 • PostgreSQL • Docker
+
+---
+
+### 🏭 Team Lead — **Industrial Automation**
+**V. Thangavel & Sons Pvt Ltd** | *Jul 2025 – Nov 2025*
+
+- 👥 Led 7-engineer automation team
+- 🔄 Built IoT sensor → cloud automation pipelines
+- 📊 Real-time data ingestion & visualization dashboards
+- 🚀 Managed CI/CD using Docker, Kubernetes & Jenkins
+- ⚡ Achieved 99.5% system uptime
+
+**Tech Stack:** Python • Node.js • MQTT • InfluxDB • Grafana • Kubernetes
+
+---
+
+### 🖥️ Backend Developer & DevOps — **Young Indians**
+**Nov 2024 – Jun 2025** | *Scalable Platform Development*
+
+- 🏗️ Developed scalable backend platforms supporting 5,000+ users
+- 🤖 Integrated Amazon Textract & Google Vision OCR for document processing
+- ☁️ Maintained AWS & GCP infrastructure (99.9% uptime)
+- 🔄 Automated deployments and monitoring pipelines
+
+**Tech Stack:** Node.js • Express • AWS • GCP • MongoDB • Redis • CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+### 🚆 National Railway QR Asset Management System
+**National-scale system managing 23+ crore railway components**
+
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=bharanidharan168&repo=railway-asset-management&theme=dark&bg_color=0a0a0a&title_color=d4a843&icon_color=d4a843&text_color=ffffff&border_color=333333"/>
+
+**🎯 Challenge:** Track and manage 230 million+ railway assets across India
+
+**💡 Solution:**
+- Dual AI pipelines for QR code processing
+- CNN-based QR quality verification (99.9% accuracy)
+- Automated defect detection system
+- Backend supports 10,000+ concurrent users
+- Real-time asset tracking & analytics
+
+**🛠️ Tech:** Python • OpenCV • TensorFlow • Apache Kafka • MongoDB • FastAPI
+
+**🏆 Recognition:** SIH 2025 Pre-Finalist (Rank 6) — Ministry of Railways
+
+<br clear="right"/>
+
+---
+
+### 🚦 AI Traffic Congestion Detection
+**Real-time vehicle density detection using computer vision**
+
+- 📹 Real-time video processing pipeline
+- 🚗 Multi-vehicle detection & tracking
+- 📊 Congestion level classification
+- 🎯 95%+ detection accuracy
+
+**🛠️ Tech:** Python • OpenCV • YOLO • Computer Vision
+
+**🏆 Recognition:** Special Mention — BYTS India Hackathon
+
+---
+
+### 🏠 IoT Smart Home Automation
+**Intelligent home system controlling 15+ appliances**
+
+- 🌡️ Climate automation (temperature, humidity)
+- 💡 Intelligent lighting based on ambient conditions
+- 🔐 Security system with PIR motion detection
+- 📱 Mobile app control interface
+- 🤖 Sensor-driven autonomous control
+
+**🛠️ Hardware:** Raspberry Pi 5 • DHT22 • PIR • LDR • Relay Modules
+
+**🛠️ Software:** Python • MQTT • Node-RED • React Native
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥇 Hackathons & Competitions
+- **SIH 2025 Pre-Finalist (Rank 6)**  
+  *Ministry of Railways Problem Statement*
+  
+- **Special Mention — BYTS India Hackathon**  
+  *AI Traffic Congestion Detection*
+
+</td>
+<td width="50%">
+
+### 📈 Production Impact
+- **23+ Crore Assets Managed**  
+  *National Railway QR System*
+  
+- **10,000+ Concurrent Users**  
+  *Scalable Backend Architecture*
+  
+- **99.9% System Uptime**  
+  *Cloud Infrastructure Management*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharan168&layout=compact&theme=dark&bg_color=0a0a0a&title_color=d4a843&text_color=ffffff&border_color=333333&hide_border=false&border_radius=12&langs_count=8" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bharanidharan168&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bharanidharan168/bharanidharan168/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:bharanidharan168@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bharanidharan168%40gmail.com-D4A843?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bharani456">
+    <img src="https://img.shields.io/badge/GitHub-bharani456-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bharanidharan-r-n-648a0228b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bharanidharan%20R%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+  <a href="https://bharani.crivo.in/">
+    <img src="https://img.shields.io/badge/Portfolio-bharani.crivo.in-D4A843?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Tamil%20Nadu%2C%20India-D4A843?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/📞_Phone-%2B91%2093842%2090323-D4A843?style=for-the-badge&labelColor=1a1a1a"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a843,50:1a1a1a,100:0a0a0a&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>💡 "Engineering is not about writing code. It is about building systems that survive reality." 💡</b>
+</p>
+
+<p align="center">
+  <sub>Built with ❤️ using React, TypeScript, and TailwindCSS • Deployed on modern cloud infrastructure</sub>
+</p>
