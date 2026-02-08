@@ -308,11 +308,16 @@ achievements = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani456&amp;layout=compact&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;langs_count=8" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharani456&amp;show_icons=true&amp;count_private=true&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;icon_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani456&amp;layout=compact&amp;theme=dark&amp;bg_color=0a0a0a&amp;title_color=d4a843&amp;text_color=ffffff&amp;border_color=333333&amp;hide_border=false&amp;border_radius=12&amp;langs_count=8&amp;include_private=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bharani456&amp;theme=darkhub&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;column=7&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>💡 Analytics will populate as you add more public repositories and contributions</sub>
 </p>
 
 ---
