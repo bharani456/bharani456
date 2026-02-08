@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:d4a843&height=200&section=header&text=Bharanidharan%20R%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Automation%20Engineer&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a1a,100:d4a843&amp;height=200&amp;section=header&amp;text=Bharanidharan%20R%20N&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Automation%20Engineer&amp;descSize=18&amp;descAlignY=55"/>
 </p>
 
 <h3 align="center">
-  <span style="color: #D4A843; font-weight: 600;">AI & Automation Engineer • Backend Systems • Intelligent Infrastructure</span>
+  <span style="color: #D4A843; font-weight: 600;">AI &amp; Automation Engineer • Backend Systems • Intelligent Infrastructure</span>
 </h3>
 
 <p align="center">
@@ -105,7 +105,7 @@ I design systems for:
 ## 🛠️ Technical Arsenal
 
 <details open>
-<summary><b>💻 Languages & Core Technologies</b></summary>
+<summary><b>💻 Languages &amp; Core Technologies</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -117,7 +117,7 @@ I design systems for:
 </details>
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>🤖 AI &amp; Machine Learning</b></summary>
 <br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -130,7 +130,7 @@ I design systems for:
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Data Engineering</b></summary>
+<summary><b>⚙️ Backend &amp; Data Engineering</b></summary>
 <br/>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -156,7 +156,7 @@ I design systems for:
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>☁️ Cloud &amp; DevOps</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -168,7 +168,7 @@ I design systems for:
 </details>
 
 <details open>
-<summary><b>🔌 IoT & Embedded Systems</b></summary>
+<summary><b>🔌 IoT &amp; Embedded Systems</b></summary>
 <br/>
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
